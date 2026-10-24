@@ -165,6 +165,4 @@ Copy the exact distribution name into `$WslDistro` in `wsl-lan-forward.ps1`.
 - Use an application server appropriate for your environment. Built-in development servers are usually intended for development, not production.
 - Review the scripts before running them, especially when using an administrator shell.
 
-## License
 
-No license is specified by this repository yet. Add a `LICENSE` file before presenting the project as open source, and choose a license that matches your intentions.
